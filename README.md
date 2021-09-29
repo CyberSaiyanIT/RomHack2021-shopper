@@ -1,4 +1,8 @@
 # #RomHack2021 shopper
-Code to generate #RomHack2021 shopper graphic 
+The repo includes the python script to generate #RomHack2021 shopper graphic
 
-To be released on saturday 25th of September 2021 [during the conference](https://romhack.io)
+![RomHack shopper](RomHack2021_shopper.jpg)
+
+More info and [challenge solution here](https://romhack.io/shopper-2021.html)
+
+Tks to [@rtphokie](https://twitter.com/rtphokie) for his [original script](https://github.com/rtphokie/perseverance_parachute_decode)
